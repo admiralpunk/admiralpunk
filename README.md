@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aniket 👋</h1>
-<h3 align="center">A passionate developer and Computer Engineering Student</h3>
+<h3 align="center">Passionate developer and a Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Java, Springboot**
 
