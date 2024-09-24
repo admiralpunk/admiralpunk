@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Kolte</h1>
+<h1 align="center">Hi there, I'm Aniket 👋</h1>
 <h3 align="center">A passionate developer and Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Java, Springboot**
