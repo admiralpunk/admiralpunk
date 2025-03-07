@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aniket 👋</h1>
 <h3 align="center">Passionate developer and a Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Java, Springboot**
+- 🌱 Backend Developer At Stealth Mode Startup**
 
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 
