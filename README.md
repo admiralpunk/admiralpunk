@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aniket 👋</h1>
 <h3 align="center">Passionate developer and a Computer Science Student</h3>
 
-- 🌱 Working as a SDE Intern at PayU
+- 🌱 Working as a SDE Developer at Finarkein
 
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 
