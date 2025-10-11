@@ -2,7 +2,7 @@
 <h3 align="center">Passionate developer and a Computer Science Student</h3>
 
 - 🌱 Working as a SDE Developer at Finarkein
-- 🧠 Currently learning Reactive Java (Spring WebFlux) to build scalable, non-blocking web applications.
+- 🧠 Currently learning **Reactive Java (Spring WebFlux)** to build scalable, non-blocking web applications.
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 
 - 📫 How to reach me **aniketkolte79@gmail.com**
