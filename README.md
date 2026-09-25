@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="https://aniketkolte-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aniketkolte79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center">📫 aniketkolte79@gmail.com</p>
 
 ## 👨‍💻 About Me
 
@@ -14,8 +15,6 @@
 - 💬 Ask me about **Algorithms, Data Structures, and Competitive Programming**
 - ⚡ Constantly learning and adapting to new technologies
 - 📫 Reach me at **aniketkolte79@gmail.com**
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 ## 🛠️ Tech Stack
 
@@ -61,10 +60,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=admiralpunk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Aniket's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=admiralpunk&hide_border=true" alt="Aniket's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admiralpunk&layout=compact&hide_border=true" alt="Top languages" />
 </p>
